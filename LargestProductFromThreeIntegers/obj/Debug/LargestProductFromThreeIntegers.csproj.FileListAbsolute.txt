@@ -1,0 +1,7 @@
+C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\bin\Debug\LargestProductFromThreeIntegers.exe.config
+C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\bin\Debug\LargestProductFromThreeIntegers.exe
+C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\bin\Debug\LargestProductFromThreeIntegers.pdb
+C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.exe
+C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.pdb
