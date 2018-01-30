@@ -5,3 +5,9 @@ C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers
 C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.csproj.CoreCompileInputs.cache
 C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.exe
 C:\Users\Tommy Mathan\source\repos\InterviewCake\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.pdb
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\LargestProductFromThreeIntegers\bin\Debug\LargestProductFromThreeIntegers.exe.config
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.exe
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.pdb
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\LargestProductFromThreeIntegers\obj\Debug\LargestProductFromThreeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\LargestProductFromThreeIntegers\bin\Debug\LargestProductFromThreeIntegers.exe
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\LargestProductFromThreeIntegers\bin\Debug\LargestProductFromThreeIntegers.pdb
