@@ -1,0 +1,6 @@
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\AppleStocks\bin\Debug\AppleStocks.exe.config
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\AppleStocks\bin\Debug\AppleStocks.exe
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\AppleStocks\bin\Debug\AppleStocks.pdb
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\AppleStocks\obj\Debug\AppleStocks.csprojResolveAssemblyReference.cache
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\AppleStocks\obj\Debug\AppleStocks.exe
+C:\Users\v-thomam\Documents\git clo\InterviewPrep\AppleStocks\obj\Debug\AppleStocks.pdb
